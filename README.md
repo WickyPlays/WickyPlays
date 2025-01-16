@@ -1,5 +1,5 @@
-<h1 align="center">Hello everyone, I'm Wicky!</h1>
-<h3 align="center">A passionate coder with a love for green, symbolizing hope like a lucky clover ☆</h3>
+<h1 align="center">Hello everyone, Wicky's here!</h1>
+<h3 align="center">☆ Just a simpleton who loves coding in my free time! ☆</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wickyplays&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
