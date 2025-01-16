@@ -6,15 +6,20 @@
 ---
 
 ### About Me  
-- 📧 Reach me at: **baottworkspace@gmail.com**  
-- 💡 Fun fact: **I like green color, represent a hopeful clover.**
+Hello everyone, Wicky's here.
+
+Welcome to my Github profile. This is where you can check out what I've been working on, see what I'm learning, and explore the projects I've built so far. There's so much to explore though! From professional webs/apps, experiments, or fun side projects, you name it.
+
+I'm always learning something new and having fun along the way. Feel free to browse my repositories, star what you like, or drop a suggestion about them. I'm very much happy to connect with other developers as well!
+
+📧 Reach me at: **baottworkspace@gmail.com**  
 
 ---
 
 ### Connect with Me  
 <p align="left">
-  <a href="https://twitter.com/wickyplays" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/wickyplays-3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://x.com/wickyplays" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@WickyPlays-3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
