@@ -1,13 +1,13 @@
 <h1 align="center">Hello everyone, Wicky's here!</h1>
 <h3 align="center">☆ Just a simpleton who loves coding in my free time! ☆</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wickyplays&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wickyplays&label=Profile%20views&color=0e75b6&style=for-the-badge&color=brightgreen" alt="Profile Views" /> </p>
 
 ---
 
 ### About Me  
 - 📧 Reach me at: **baottworkspace@gmail.com**  
-- 💡 Fun fact: **Green is my favorite color for its hopeful vibes!**
+- 💡 Fun fact: **I like green color, represent a hopeful clover.**
 
 ---
 
