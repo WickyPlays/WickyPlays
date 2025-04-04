@@ -18,7 +18,7 @@
             />
         </linearGradient>
     </defs>
-    <text x="50%" y="35" font-size="20" text-anchor="middle" fill="url(#gradient)">
+    <text x="50%" y="35" font-size="20" text-anchor="middle" font-family="'Mona Sans', sans-serif" fill="url(#gradient)">
         ☆ Just a simpleton who loves coding in my free time! ☆
     </text>
   </svg>

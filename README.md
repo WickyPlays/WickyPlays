@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone, Wicky's here!</h1>
-<div align="center">
-  ## ![plot](./subtitle.svg)
-</div>
+<a href="https://github.com/WickyPlays/WickyPlays/" style="margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/WickyPlays/WickyPlays/refs/heads/main/subtitle.svg" alt="Wicky's Github Profile" />
+</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wickyplays&label=Profile%20views&color=0e75b6&style=for-the-badge&color=brightgreen" alt="Profile Views" /> </p>
 
