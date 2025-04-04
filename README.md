@@ -1,29 +1,6 @@
 <h1 align="center">Hello everyone, Wicky's here!</h1>
 <div align="center">
- <svg width="500" height="50" viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#ffffff" />
-            <stop offset="50%" stop-color="#00ff00" />
-            <stop offset="100%" stop-color="#ffffff" />
-            <animate 
-                attributeName="x1" 
-                values="-100%; 150%" 
-                dur="2s" 
-                repeatCount="indefinite" 
-            />
-            <animate 
-                attributeName="x2" 
-                values="0%; 250%" 
-                dur="2s" 
-                repeatCount="indefinite" 
-            />
-        </linearGradient>
-    </defs>
-    <text x="50%" y="35" font-size="20" text-anchor="middle" fill="url(#gradient)">
-        ☆ Just a simpleton who loves coding in my free time! ☆
-    </text>
-  </svg>
+  ## ![plot](./subtitle.svg)
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wickyplays&label=Profile%20views&color=0e75b6&style=for-the-badge&color=brightgreen" alt="Profile Views" /> </p>
