@@ -87,7 +87,7 @@ I'm always learning something new and having fun along the way. Feel free to bro
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickyplays&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickyplays&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wickyplays&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats with Ranking" />
 </p>
 
 ---
