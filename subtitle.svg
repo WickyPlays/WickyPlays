@@ -1,0 +1,64 @@
+<svg width="500" height="50" viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Gradient for light mode -->
+        <linearGradient id="gradient-light" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#000000" />
+            <stop offset="50%" stop-color="#00ff00" />
+            <stop offset="100%" stop-color="#000000" />
+            <animate 
+                attributeName="x1" 
+                values="-100%; 150%" 
+                dur="2s" 
+                repeatCount="indefinite" 
+            />
+            <animate 
+                attributeName="x2" 
+                values="0%; 250%" 
+                dur="2s" 
+                repeatCount="indefinite" 
+            />
+        </linearGradient>
+        
+        <!-- Gradient for dark mode -->
+        <linearGradient id="gradient-dark" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ffffff" />
+            <stop offset="50%" stop-color="#00ff00" />
+            <stop offset="100%" stop-color="#ffffff" />
+            <animate 
+                attributeName="x1" 
+                values="-100%; 150%" 
+                dur="2s" 
+                repeatCount="indefinite" 
+            />
+            <animate 
+                attributeName="x2" 
+                values="0%; 250%" 
+                dur="2s" 
+                repeatCount="indefinite" 
+            />
+        </linearGradient>
+        
+        <style>
+            @media (prefers-color-scheme: light) {
+                .theme-text {
+                    fill: url(#gradient-light);
+                }
+            }
+            @media (prefers-color-scheme: dark) {
+                .theme-text {
+                    fill: url(#gradient-dark);
+                }
+            }
+            text {
+                user-select: text;
+                -webkit-user-select: text;
+                -moz-user-select: text;
+                -ms-user-select: text;
+                cursor: text;
+            }
+        </style>
+    </defs>
+    <text x="50%" y="35" font-size="20" text-anchor="middle" font-family="Arial, sans-serif" class="theme-text">
+        ☆ Just a simpleton who loves coding in my free time! ☆
+    </text>
+</svg>
