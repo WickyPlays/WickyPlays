@@ -18,7 +18,8 @@ Welcome to my Github profile. This is where you can check out what I've been wor
 I'm always learning something new and having fun along the way. Feel free to browse my repositories, star what you like, or drop a suggestion about them. I'm very much happy to connect with other developers as well!
 
 📧 Reach me at: **baottworkspace@gmail.com**
-More info at [https://tuthienbao.me](https://tuthienbao.me)
+
+More info (portfolio) at [https://tuthienbao.me](https://tuthienbao.me)
 
 ---
 
