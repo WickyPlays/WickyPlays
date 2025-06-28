@@ -86,7 +86,7 @@ More info (portfolio) at [https://tuthienbao.me](https://tuthienbao.me)
 
 ### My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wickyplays&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://gh-readme-language.vercel.app/api/WickyPlays" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wickyplays&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats with Ranking" />
