@@ -88,9 +88,6 @@ More info (portfolio) at [https://tuthienbao.me](https://tuthienbao.me)
 <p align="center">
   <img src="https://gh-readme-language.vercel.app/api/WickyPlays" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wickyplays&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats with Ranking" />
-</p>
 
 ---
 
