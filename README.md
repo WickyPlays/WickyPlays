@@ -75,7 +75,7 @@ More info (portfolio) at [https://tuthienbao.me](https://tuthienbao.me)
 
 ---
 
-### My GitHub Stats  
+### My Stats  
 <p align="center">
   <img src="https://gh-readme-language.vercel.app/api/WickyPlays" alt="Top Languages" />
 </p>
