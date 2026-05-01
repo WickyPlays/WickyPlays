@@ -82,7 +82,7 @@ More info (portfolio) at [https://tuthienbao.me](https://tuthienbao.me)
 
 ---
 
-### Support  
+### Support me! 
 <p>
   <a href="https://ko-fi.com/wicky">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
