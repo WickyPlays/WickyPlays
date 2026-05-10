@@ -45,50 +45,126 @@ I'm always learning something new and having fun along the way. Feel free to bro
 ## Languages
 
 <p align="left">
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/c-plusplus.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="C++"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Lua"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="CSS3"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Dart"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="HTML5"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Java"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="JavaScript"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="TypeScript"></span>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
 </p>
-
 ---
 
 ## Tools & Frameworks
 
 <p align="left">
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Android"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Arduino"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Bootstrap"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Bulma"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://www.chartjs.org/media/logo-title.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Chart.js"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Figma"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Docker"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Electron"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="D3.js"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Flutter"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Git"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Linux"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="MongoDB"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Microsoft SQL Server"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="MySQL"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Node.js"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="PostgreSQL"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Postman"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/robotframework/visual-identity/refs/heads/main/logo/robot-framework.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: #FFF;" alt="Robot Framework"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: #FFF;" alt="Express.js"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="React"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://reactnative.dev/img/header_logo.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="React Native"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Sass"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/selenium.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Selenium"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="SQLite"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Webpack"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Vue.js"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Quasar"></span>
-  <span style="display: inline-block; width: 40px; height: 40px; background-image: url('https://hono.dev/images/logo.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Hono"></span>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://bulma.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
+  </a>
+
+  <!-- White background fixes -->
+  <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.svg" width="40" height="40" style="background-color:#fff; border-radius:6px; padding:2px;"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="background-color:#fff; border-radius:6px; padding:2px;"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/selenium.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://hono.dev/" target="_blank" rel="noreferrer">
+    <img src="https://hono.dev/images/logo.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
