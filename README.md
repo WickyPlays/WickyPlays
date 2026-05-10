@@ -33,10 +33,9 @@ I'm always learning something new and having fun along the way. Feel free to bro
 
 <p align="left">
   <a href="https://x.com/wickyplays" target="_blank">
-    <span style="display: inline-block; width: 40px; height: 30px; background-image: url('https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="Twitter"></span>
-  </a>
-  <a href="https://www.youtube.com/@WickyPlays3" target="_blank">
-    <span style="display: inline-block; width: 40px; height: 30px; background-image: url('https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; background-color: transparent;" alt="YouTube"></span>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
+  </a><a href="https://www.youtube.com/@WickyPlays3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
 </p>
 
@@ -47,8 +46,7 @@ I'm always learning something new and having fun along the way. Feel free to bro
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
