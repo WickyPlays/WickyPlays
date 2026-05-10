@@ -1,0 +1,10 @@
+<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" x="10" y="20" height="40" width="40"/>
+  <image href="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" x="60" y="20" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" x="110" y="20" height="40" width="40"/>
+  <image href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" x="160" y="20" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" x="210" y="20" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" x="260" y="20" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" x="310" y="20" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" x="360" y="20" height="40" width="40"/>
+</svg>

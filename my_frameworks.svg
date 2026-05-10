@@ -1,0 +1,19 @@
+<svg width="900" height="120" xmlns="http://www.w3.org/2000/svg">
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" x="10" y="10" height="40" width="40"/>
+  <image href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" x="60" y="10" height="40" width="40"/>
+  <image href="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" x="110" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bulma.svg" x="160" y="10" height="40" width="40"/>
+  <image href="https://www.chartjs.org/media/logo-title.svg" x="210" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" x="260" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" x="310" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" x="360" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" x="410" y="10" height="40" width="40"/>
+  <image href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" x="460" y="10" height="40" width="40"/>
+  <image href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" x="510" y="10" height="40" width="40"/>
+  <image href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" x="560" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" x="610" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" x="660" y="10" height="40" width="40"/>
+  <image href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" x="710" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" x="760" y="10" height="40" width="40"/>
+  <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" x="810" y="10" height="40" width="40"/>
+</svg>
