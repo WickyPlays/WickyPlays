@@ -70,7 +70,6 @@ I'm always learning something new and having fun along the way. Feel free to bro
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
 </p>
----
 
 ## Tools & Frameworks
 
@@ -130,7 +129,6 @@ I'm always learning something new and having fun along the way. Feel free to bro
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
   </a>
 
-  <!-- White background fixes -->
   <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/robotframework/visual-identity/master/logo/robot-framework.svg" width="40" height="40" style="background-color:#fff; border-radius:6px; padding:2px;"/>
   </a>
